@@ -10,4 +10,3 @@ CSS property
 ![x5](https://user-images.githubusercontent.com/66555692/86542710-9dcf4580-bf35-11ea-9c28-89992230338a.png)
 ![x6](https://user-images.githubusercontent.com/66555692/86542703-960fa100-bf35-11ea-8525-c8dee512206d.png)
 ![x7](https://user-images.githubusercontent.com/66555692/86542706-9a3bbe80-bf35-11ea-95ed-4a2ebc477447.png)
-![X9](https://user-images.githubusercontent.com/66555692/86563400-ee6c9000-bf81-11ea-91d2-96c38ea13ecb.png)
